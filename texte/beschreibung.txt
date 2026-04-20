@@ -1,0 +1,40 @@
+SmartAlarm ist dein persönlicher Notalarm – immer dabei, sofort einsatzbereit.
+
+  Mit einem einzigen Tipp auf den großen roten Button löst du einen lauten Alarm aus und ziehst sofort Aufmerksamkeit auf dich. Egal wo
+   du bist – SmartAlarm reagiert ohne Verzögerung und macht auf dich aufmerksam.
+
+  ── WERBEFREI · OFFLINE · KEIN TRACKING ──
+
+  • Keine Werbung – nie
+  • Funktioniert komplett ohne Internet
+  • Speichert keine persönlichen Daten
+  • Alle Einstellungen bleiben auf deinem Gerät
+
+  ── TYPISCHE EINSATZSITUATIONEN ──
+
+  • Wohnmobil- und Wohnwagenfahrer auf einsamen Stellplätzen
+  • Camper und Alleinreisende abseits der Zivilisation
+  • Wanderer und Outdoor-Enthusiasten
+  • Bedrohliche Situationen auf der Straße oder in der Öffentlichkeit
+  • Schulweg und öffentliche Verkehrsmittel
+  • Senioren, die alleine leben oder unterwegs sind
+  • Jogger und Radfahrer in abgelegenen Gebieten
+  • Überall dort, wo man schnell auf sich aufmerksam machen muss
+
+  ── FUNKTIONEN ──
+
+  • Großer, gut sichtbarer Alarm-Button – auch unter Stress sofort zu finden
+  • Zwei eingebaute Alarmsignale: Sirene und Hundegebell
+  • Eigene Audiodatei wählbar – MP3, WAV, OGG oder M4A
+  • Maximale Lautstärke beim Auslösen
+  • Vibration für zusätzliche Wahrnehmung
+  • Wakelock – Bildschirm bleibt bei aktivem Alarm eingeschaltet
+  • Alle Einstellungen werden gespeichert
+
+  ── DATENSCHUTZ ──
+
+  SmartAlarm erhebt keine personenbezogenen Daten, benötigt keine Internetverbindung und sendet nichts nach außen. Alle Einstellungen
+  bleiben ausschließlich auf deinem Gerät.
+
+  Entwickelt von Gestalten Sass.
+
